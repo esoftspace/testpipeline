@@ -5,4 +5,4 @@ Resources:
   MyTestBucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my-codepipeline-test-bucket-12345
+      BucketName: my-bucket-13124-2026
