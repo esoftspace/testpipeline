@@ -3,7 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "Nothing to build. Passing CFN template forward."
+      - echo "Nothing to build. Passing CFN template forward...."
 
 artifacts:
   files:
